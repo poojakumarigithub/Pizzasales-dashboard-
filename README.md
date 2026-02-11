@@ -82,15 +82,13 @@ Storytelling with Data
 This dashboard helps stakeholders:
 Track performance metrics
 Identify top and bottom products
-
+Optimize pricing and promotions
+Improve inventory planning
+Make data-driven business decisions
 
 <img width="1871" height="776" alt="Screenshot 2026-02-11 204112" src="https://github.com/user-attachments/assets/ddc9f044-3066-4496-ba70-5cdffe3d17b9" />
 
 
 <img width="1919" height="996" alt="Screenshot 2026-02-11 204055" src="https://github.com/user-attachments/assets/597e21bc-0d2e-4afc-a3d8-c4be5d173ea0" />
 
-Optimize pricing and promotions
 
-Improve inventory planning
-
-Make data-driven business decisions
